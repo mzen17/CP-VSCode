@@ -1,6 +1,6 @@
 # Usage
 Create a split window like this:
-<img src='[https://github.com/mzen17/web102_prework/blob/main/102Demo.gif](https://github.com/mzen17/CP-Workspace/blob/main/DEMO.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo](DEMO.mp4)
 
 # Steps
 1. Write into the input
