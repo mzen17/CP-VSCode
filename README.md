@@ -1,6 +1,6 @@
 # Usage
 Create a split window like this:
-![demo](DEMO.mp4)
+![demo](DEMO.gif)
 
 # Steps
 1. Write into the input
