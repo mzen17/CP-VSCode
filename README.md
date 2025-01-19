@@ -1,5 +1,6 @@
 # Usage
 Create a split window like this:
+
 ![demo](DEMO.gif)
 
 # Steps
