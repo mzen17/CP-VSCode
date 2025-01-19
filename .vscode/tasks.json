@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Compile C++ & Run",
+        "type": "shell",
+        "command": "${fileDirname}/run.sh",
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "detail": "Compiles a C++ file using g++."
+      }
+    ]
+  }
