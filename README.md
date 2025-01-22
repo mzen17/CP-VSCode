@@ -1,7 +1,9 @@
 # Usage
-Create a split window like this:
-
 ![demo](DEMO.gif)
+
+# Setup
+1. git clone https://github.com/mzen17/CP-VSCode
+2. VSCode -> Open folder CP-VSCode
 
 # Steps
 1. Write into the input
