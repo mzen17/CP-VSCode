@@ -2,7 +2,7 @@
 ![demo](DEMO.gif)
 
 ## Setup
-1. git clone https://github.com/mzen17/CP-VSCode
+1. git clone `https://github.com/mzen17/CP-VSCode.git`
 2. VSCode -> Open folder CP-VSCode
 
 ## Steps
