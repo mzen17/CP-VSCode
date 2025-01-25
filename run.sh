@@ -1,1 +1,1 @@
-g++ *.cpp -o a.out && ./a.out < input > out
+g++ main.cpp debugtools.cpp -o a.out && ./a.out < input > out
